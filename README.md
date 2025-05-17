@@ -31,3 +31,16 @@ tech_stack:
   - Database: MySQL, Firebase
   - DevOps: Docker, SSH, Linux
 currently_building: "IoT-Based Attendance System for Safety Monitoring ⚡"
+🌌 GitHub Stats Universe
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=izzudinalqassam&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=izzudinalqassam&theme=tokyonight&hide_border=true&border_radius=10" height="180" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzudinalqassam&layout=compact&theme=tokyonight&hide_border=true" height="150" /> </p>
+🎯 Active Projects
+🔧 RFID-based Attendance System for Power Plant Safety
+⚙️ TechOps Automation using Dockerized Services
+📊 Dashboard Data EHS with Laravel + Chart.js
+💬 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/izzudinalqassam" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:izzudinalqassam@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23111111.svg?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+🎮 Fun Fact
+I debug better with Lo-Fi music & a cup of coffee ☕💻
+Currently training my ESP8266 to be smarter than me 😄
+🐍 GitHub Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/izzudinalqassam/izzudinalqassam/output/github-contribution-grid-snake.svg" alt="snake animation" /> </p> ```
