@@ -1,36 +1,54 @@
-<h1 align="center">Hi 👋, I'm Izzudin Alqassam</h1>
-<h3 align="center">A passionate Fullstack Developer & TechOps enthusiast from Indonesia</h3>
+<!-- HEADER -->
+<h1 align="center">
+  Hey there 👋 I'm <span style="color:#8E2DE2;">Izzudin Alqassam</span>
+</h1>
+<h3 align="center">⚡ Fullstack Dev | Laravel ⚙️ Go ⚛️ Next.js | TechOps Enthusiast</h3>
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/l4J3KxE.gif" width="80%" alt="web3 banner gif">
+</p>
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" title="GoLang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=izzudinalqassam&show_icons=true&theme=tokyonight" alt="izzudinalqassam" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzudinalqassam&layout=compact&theme=tokyonight" alt="top-langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izzudinalqassam&show_icons=true&theme=radical&border_radius=15" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzudinalqassam&layout=compact&theme=radical&border_radius=15" height="150"/>
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/izzudinalqassam/)
-- 🌐 [Portfolio](https://your-portfolio.com)
+<p align="center">
+  <a href="https://linkedin.com/in/izzudinalqassam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:izzudinalqassam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💡 Fun Fact
+> I'm currently building an IoT-based attendance system for power plant safety 💥⚡️ — using Go, MySQL, and ESP!
 
